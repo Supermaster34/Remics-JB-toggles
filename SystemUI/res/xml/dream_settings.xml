@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/jelly_bean_dream_name"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <CheckBoxPreference android:title="@string/bean_dream_settings_cid_title" android:key="beanbag_dream_cid" android:summary="@string/bean_dream_settings_cid_summary" android:defaultValue="false" />
+</PreferenceScreen>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="notification_panel_solid_background">#ff000000</color>
+    <color name="status_bar_recents_app_label_color">#ffffffff</color>
+    <color name="notification_list_shadow_top">#80000000</color>
+    <color name="notification_panel_scrim_color">#b0000000</color>
+    <color name="pie_overlay_color">#cc000000</color>
+    <item type="color" name="pie_snap_color">@*android:color/holo_blue_light</item>
+    <color name="pie_text_color">#ffffffff</color>
+    <color name="pie_foreground_color">#ffffffff</color>
+    <color name="pie_background_color">#dd0099cc</color>
+    <item type="color" name="pie_selected_color">@*android:color/holo_blue_light</item>
+    <color name="pie_long_pressed_color">#ff8ad5f0</color>
+    <color name="pie_outline_color">#dd0099cc</color>
+</resources>
