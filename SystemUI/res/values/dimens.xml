@@ -54,8 +54,8 @@
     <dimen name="close_handle_height">36.0dip</dimen>
     <dimen name="close_handle_underlap">32.0dip</dimen>
     <dimen name="notification_panel_header_height">48.0dip</dimen>
-    <dimen name="notification_panel_widget_height">48.0dip</dimen>
-    <dimen name="notification_panel_header_and_widget">96.0dip</dimen>
+    <dimen name="notification_panel_widget_height">96.0dip</dimen>
+    <dimen name="notification_panel_header_and_widget">144.0dip</dimen>
     <dimen name="notification_panel_padding_top">0.0dip</dimen>
     <dimen name="notification_panel_header_padding_top">0.0dip</dimen>
     <dimen name="notification_panel_margin_bottom">0.0dip</dimen>
