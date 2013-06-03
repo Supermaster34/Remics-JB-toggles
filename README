@@ -1,3 +1,9 @@
 Decompiled SystemUI for Remics-JB. 
 
-Icons are working fine, but the sizing is still off. 
+Icons are working fine and the sizing has been fixed to some extent, but it's still not perfect.
+
+To do:
+
+Fix scaling issues
+Modify quicksettings to match the S4
+Replace SIII icons with S4 icons
